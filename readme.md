@@ -2,6 +2,13 @@
 
 This project converts a SQL function to a JavaScript and PHP function that runs the same as the SQL function
 
+## Prerequisites
+
+```
+Must have npm installed for JavaScript
+Must have composer installed for php
+```
+
 ## JavaScript
 
 To run the JavaScript tests, run these commands from the javascript directory of the project:
