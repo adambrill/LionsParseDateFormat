@@ -4,7 +4,7 @@ This project converts a SQL function to a JavaScript and PHP function that runs 
 
 ## JavaScript
 
-To run the JavaScript tests, run these commands from the root of the project:
+To run the JavaScript tests, run these commands from the javascript directory of the project:
 
 
 ```
